@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2f580a81d1e4f3428803fcade04da1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aBunny: {instanceID: 0}
+  - bunnyContainer: {fileID: 4079276514479894932, guid: a99abc577b0365240a140aa4d4ea2449, type: 3}
+  - bunnySpawner: {fileID: 8473638783672956266, guid: 793a33346dadf68489fd90588e52368c, type: 3}
+  - buttonHandler: {fileID: 1174627162029367463, guid: b237843c24532b048af84de9f8360fcb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

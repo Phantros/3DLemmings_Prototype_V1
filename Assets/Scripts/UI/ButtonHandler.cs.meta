@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 60c8911db1c44a140991240327545ba8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bombButton: {fileID: 9137828882289016341, guid: 2608e406bc7889b458f37c030597b34b, type: 3}
+  - _bounceButton: {fileID: 8484700291765757856, guid: 53e8ee31233a41149adf4dc8a3d54da3, type: 3}
+  - _pickaxeButton: {fileID: 7122659494595558689, guid: e9fbf1a5814619e49aeaca15aa725ab1, type: 3}
+  - _goLeftButton: {fileID: 6348281866261605334, guid: cc7eaf216bd49e144a9766dcb5b88b9e, type: 3}
+  - _goRightButton: {fileID: 8564224664212014552, guid: f13bbf69077188a46a083ff1d20aa0ab, type: 3}
+  - _nukeButton: {fileID: 6023184812899094135, guid: 78841a5170a66d64bab1acf1789e618f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
